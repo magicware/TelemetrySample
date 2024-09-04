@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sync_channel_id">Health Connect</string>
+    <string name="sync_channel_name">Health Connect</string>
+    <string name="sync_notification_title">Health Connect sync</string>
+    <integer name="sync_notification_id">2</integer>
+</resources>
